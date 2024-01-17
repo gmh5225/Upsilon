@@ -1,0 +1,5 @@
+
+// main function like c
+def main() {
+    print("Hello, World!");
+}
