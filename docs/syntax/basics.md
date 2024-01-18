@@ -8,5 +8,5 @@ def main() {
 }
 ```
 
-Every line ends with a semicollen.
+Every line ends with a semicolon.
 
